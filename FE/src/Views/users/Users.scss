@@ -1,0 +1,20 @@
+.Users {
+    thead {
+        text-align: center;
+    }
+
+    tbody {
+        .edit {
+            text-align: center;
+        }
+    }
+
+    .pagination {
+        display: flex;
+        justify-content: center;
+    }
+
+    .not-found-user {
+        text-align: center;
+    }
+}
